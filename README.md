@@ -6,6 +6,6 @@ Then adding the Docker file to GCP's Artifact Registry and then Deploying the ap
 
 the public link for the same website is given below:
 
-https://tokyotaste-web1-b7id3fx3xq-uc.a.run.app 
+https://new-build-tokyotaste-i36zky5e5a-uc.a.run.app/
 
 No Features or nothing done by me, just simple hosting of static website on Cloud Run using Docker and GCP.
